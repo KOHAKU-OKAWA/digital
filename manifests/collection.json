@@ -1,0 +1,15 @@
+{
+  "id" : "https://KOHAKU-OKAWA.github.io/digital/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in KOHAKU-OKAWA/digital project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://KOHAKU-OKAWA.github.io/digital/manifests/prezi.json",
+    "label" : {
+      "en" : [ "数字人文作业" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
