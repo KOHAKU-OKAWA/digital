@@ -1,0 +1,509 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://KOHAKU-OKAWA.github.io/digital/manifests/prezi.json",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "数字人文作业" ]
+  },
+  "items" : [ {
+    "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/1",
+    "type" : "Canvas",
+    "label" : {
+      "en" : [ "page1" ]
+    },
+    "height" : 320,
+    "width" : 504,
+    "items" : [ {
+      "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/1/annotationpage/0",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/1/annotation/0",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "http://localhost:8182/iiif/3/image_(1).jpg/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 320,
+          "width" : 504,
+          "format" : "image/jpeg"
+        },
+        "target" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/1"
+      } ]
+    } ]
+  }, {
+    "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/2",
+    "type" : "Canvas",
+    "label" : {
+      "en" : [ "page2" ]
+    },
+    "height" : 520,
+    "width" : 780,
+    "items" : [ {
+      "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/2/annotationpage/0",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/2/annotation/0",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "http://localhost:8182/iiif/3/image_(2).jpg/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 520,
+          "width" : 780,
+          "format" : "image/jpeg"
+        },
+        "target" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/2"
+      } ]
+    } ]
+  }, {
+    "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/3",
+    "type" : "Canvas",
+    "label" : {
+      "en" : [ "page3" ]
+    },
+    "height" : 900,
+    "width" : 1200,
+    "items" : [ {
+      "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/3/annotationpage/0",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/3/annotation/0",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "http://localhost:8182/iiif/3/image_(3).jpg/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 900,
+          "width" : 1200,
+          "format" : "image/jpeg"
+        },
+        "target" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/3"
+      } ]
+    } ]
+  }, {
+    "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/4",
+    "type" : "Canvas",
+    "label" : {
+      "en" : [ "page4" ]
+    },
+    "height" : 520,
+    "width" : 780,
+    "items" : [ {
+      "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/4/annotationpage/0",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/4/annotation/0",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "http://localhost:8182/iiif/3/image_(4).jpg/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 520,
+          "width" : 780,
+          "format" : "image/jpeg"
+        },
+        "target" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/4"
+      } ]
+    } ]
+  }, {
+    "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/5",
+    "type" : "Canvas",
+    "label" : {
+      "en" : [ "page5" ]
+    },
+    "height" : 434,
+    "width" : 780,
+    "items" : [ {
+      "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/5/annotationpage/0",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/5/annotation/0",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "http://localhost:8182/iiif/3/image_(5).jpg/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 434,
+          "width" : 780,
+          "format" : "image/jpeg"
+        },
+        "target" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/5"
+      } ]
+    } ]
+  }, {
+    "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/6",
+    "type" : "Canvas",
+    "label" : {
+      "en" : [ "page6" ]
+    },
+    "height" : 435,
+    "width" : 1180,
+    "items" : [ {
+      "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/6/annotationpage/0",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/6/annotation/0",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "http://localhost:8182/iiif/3/image_(6).jpg/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 435,
+          "width" : 1180,
+          "format" : "image/jpeg"
+        },
+        "target" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/6"
+      } ]
+    } ]
+  }, {
+    "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/7",
+    "type" : "Canvas",
+    "label" : {
+      "en" : [ "page7" ]
+    },
+    "height" : 553,
+    "width" : 1180,
+    "items" : [ {
+      "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/7/annotationpage/0",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/7/annotation/0",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "http://localhost:8182/iiif/3/image_(7).jpg/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 553,
+          "width" : 1180,
+          "format" : "image/jpeg"
+        },
+        "target" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/7"
+      } ]
+    } ]
+  }, {
+    "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/8",
+    "type" : "Canvas",
+    "label" : {
+      "en" : [ "page8" ]
+    },
+    "height" : 801,
+    "width" : 1200,
+    "items" : [ {
+      "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/8/annotationpage/0",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/8/annotation/0",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "http://localhost:8182/iiif/3/image_(8).jpg/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 801,
+          "width" : 1200,
+          "format" : "image/jpeg"
+        },
+        "target" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/8"
+      } ]
+    } ]
+  }, {
+    "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/9",
+    "type" : "Canvas",
+    "label" : {
+      "en" : [ "page9" ]
+    },
+    "height" : 320,
+    "width" : 480,
+    "items" : [ {
+      "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/9/annotationpage/0",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/9/annotation/0",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "http://localhost:8182/iiif/3/image_(9).jpg/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 320,
+          "width" : 480,
+          "format" : "image/jpeg"
+        },
+        "target" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/9"
+      } ]
+    } ]
+  }, {
+    "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/10",
+    "type" : "Canvas",
+    "label" : {
+      "en" : [ "page10" ]
+    },
+    "height" : 518,
+    "width" : 780,
+    "items" : [ {
+      "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/10/annotationpage/0",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/10/annotation/0",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "http://localhost:8182/iiif/3/image_(10).jpg/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 518,
+          "width" : 780,
+          "format" : "image/jpeg"
+        },
+        "target" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/10"
+      } ]
+    } ]
+  }, {
+    "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/11",
+    "type" : "Canvas",
+    "label" : {
+      "en" : [ "page11" ]
+    },
+    "height" : 520,
+    "width" : 780,
+    "items" : [ {
+      "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/11/annotationpage/0",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/11/annotation/0",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "http://localhost:8182/iiif/3/image_(11).jpg/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 520,
+          "width" : 780,
+          "format" : "image/jpeg"
+        },
+        "target" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/11"
+      } ]
+    } ]
+  }, {
+    "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/12",
+    "type" : "Canvas",
+    "label" : {
+      "en" : [ "page12" ]
+    },
+    "height" : 1770,
+    "width" : 1180,
+    "items" : [ {
+      "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/12/annotationpage/0",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/12/annotation/0",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "http://localhost:8182/iiif/3/image_(12).jpg/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 1770,
+          "width" : 1180,
+          "format" : "image/jpeg"
+        },
+        "target" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/12"
+      } ]
+    } ]
+  }, {
+    "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/13",
+    "type" : "Canvas",
+    "label" : {
+      "en" : [ "page13" ]
+    },
+    "height" : 520,
+    "width" : 780,
+    "items" : [ {
+      "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/13/annotationpage/0",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/13/annotation/0",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "http://localhost:8182/iiif/3/image_(13).jpg/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 520,
+          "width" : 780,
+          "format" : "image/jpeg"
+        },
+        "target" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/13"
+      } ]
+    } ]
+  }, {
+    "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/14",
+    "type" : "Canvas",
+    "label" : {
+      "en" : [ "page14" ]
+    },
+    "height" : 320,
+    "width" : 483,
+    "items" : [ {
+      "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/14/annotationpage/0",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/14/annotation/0",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "http://localhost:8182/iiif/3/image_(14).jpg/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 320,
+          "width" : 483,
+          "format" : "image/jpeg"
+        },
+        "target" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/14"
+      } ]
+    } ]
+  }, {
+    "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/15",
+    "type" : "Canvas",
+    "label" : {
+      "en" : [ "page15" ]
+    },
+    "height" : 430,
+    "width" : 1180,
+    "items" : [ {
+      "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/15/annotationpage/0",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/15/annotation/0",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "http://localhost:8182/iiif/3/image_(15).jpg/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 430,
+          "width" : 1180,
+          "format" : "image/jpeg"
+        },
+        "target" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/15"
+      } ]
+    } ]
+  }, {
+    "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/16",
+    "type" : "Canvas",
+    "label" : {
+      "en" : [ "page16" ]
+    },
+    "height" : 487,
+    "width" : 780,
+    "items" : [ {
+      "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/16/annotationpage/0",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/16/annotation/0",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "http://localhost:8182/iiif/3/image_(16).jpg/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 487,
+          "width" : 780,
+          "format" : "image/jpeg"
+        },
+        "target" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/16"
+      } ]
+    } ]
+  }, {
+    "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/17",
+    "type" : "Canvas",
+    "label" : {
+      "en" : [ "page17" ]
+    },
+    "height" : 800,
+    "width" : 1200,
+    "items" : [ {
+      "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/17/annotationpage/0",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/17/annotation/0",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "http://localhost:8182/iiif/3/image_(17).jpg/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 800,
+          "width" : 1200,
+          "format" : "image/jpeg"
+        },
+        "target" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/17"
+      } ]
+    } ]
+  }, {
+    "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/18",
+    "type" : "Canvas",
+    "label" : {
+      "en" : [ "page18" ]
+    },
+    "height" : 369,
+    "width" : 1180,
+    "items" : [ {
+      "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/18/annotationpage/0",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/18/annotation/0",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "http://localhost:8182/iiif/3/image_(18).jpg/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 369,
+          "width" : 1180,
+          "format" : "image/jpeg"
+        },
+        "target" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/18"
+      } ]
+    } ]
+  }, {
+    "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/19",
+    "type" : "Canvas",
+    "label" : {
+      "en" : [ "page19" ]
+    },
+    "height" : 799,
+    "width" : 1200,
+    "items" : [ {
+      "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/19/annotationpage/0",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/19/annotation/0",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "http://localhost:8182/iiif/3/image_(19).jpg/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 799,
+          "width" : 1200,
+          "format" : "image/jpeg"
+        },
+        "target" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/19"
+      } ]
+    } ]
+  }, {
+    "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/20",
+    "type" : "Canvas",
+    "label" : {
+      "en" : [ "page20" ]
+    },
+    "height" : 520,
+    "width" : 780,
+    "items" : [ {
+      "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/20/annotationpage/0",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/20/annotation/0",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "http://localhost:8182/iiif/3/image_(20).jpg/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 520,
+          "width" : 780,
+          "format" : "image/jpeg"
+        },
+        "target" : "http://iiif.example.org/OpKmylEVsC7thzNdYTIl/canvas/20"
+      } ]
+    } ]
+  } ]
+}
